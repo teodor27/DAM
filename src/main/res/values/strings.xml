@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PregatireRestanta1</string>
+    <string name="aplicatie_autobuz_title">Aplicatie Autobuz</string>
+    <string name="aplicatie_autobuz_text">Aplicatie Autobuz</string>
+    <string name="inregistrare_autobuz_btn">Inregistrare Autobuz</string>
+    <string name="lista_autobuze_btn">Lista autobuze</string>
+    <string name="preluare_autobuze_json_xml_btn">Preluare Autobuze JSON/XML</string>
+    <string name="raport_btn">Raport</string>
+    <string name="despre_btn">Despre</string>
+    <string name="detalii_text">Alexandru Teodor-Cosmin ID</string>
+    <string name="nr_inmatriculare_hint">Nr Inmatriculare</string>
+    <string name="numar_linie_hint">Numar Linie</string>
+    <string name="sofer_hint">Sofer</string>
+    <string name="numarul_de_locuri_hint">Numarul de Locuri</string>
+</resources>
